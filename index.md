@@ -1,3 +1,3 @@
 ---
-redirect_to: "http://www.velvetjobs.com/resume/ojhpff/daniel-ramirez"
+redirect_to: "https://goo.gl/aMZJcn"
 ---
