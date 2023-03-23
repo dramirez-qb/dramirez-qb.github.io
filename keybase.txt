@@ -4,9 +4,9 @@ https://keybase.io/dxas90
 
 I hereby claim:
 
-  * I am an admin of https://dxas90.github.io
+  * I am an admin of https://dramirez-qb.github.io
   * I am dxas90 (https://keybase.io/dxas90) on keybase.
-  * I have a public key with fingerprint C7E0 7AC6 E316 1EA3 FE87  5547 AD75 D633 0093 678E
+  * I have a public key ASACyMiCYUFPLTUEgFGxcsOi9uQRaAsJmU752Ezzm50eVwo
 
 To do so, I am signing this object:
 
@@ -14,51 +14,39 @@ To do so, I am signing this object:
   "body": {
     "key": {
       "eldest_kid": "0101cbe4852f9451a600fb5d639b3217517b3f83026fafa0bb8c125a30d8a55816380a",
-      "fingerprint": "c7e07ac6e3161ea3fe875547ad75d6330093678e",
       "host": "keybase.io",
-      "key_id": "ad75d6330093678e",
-      "kid": "0101cbe4852f9451a600fb5d639b3217517b3f83026fafa0bb8c125a30d8a55816380a",
+      "kid": "012002c8c88261414f2d35048051b172c3a2f6e411680b09994ef9d84cf39b9d1e570a",
       "uid": "ed0c893dc9a283afd7da163b474b9d19",
       "username": "dxas90"
     },
+    "merkle_root": {
+      "ctime": 1679571903,
+      "hash": "15fa2c386ab196f943aa4773605e1a198d9c8f2d7c8da67ab0b781932a1b72a7e8bb26add1a85f382c74c87692e09ed6e476c433e6c8e1932163a41fda6fece3",
+      "hash_meta": "3fc02c09cf8aea1f7bc98bed102fcb36022f05165f12a55b04fd5513469e72b5",
+      "seqno": 24237882
+    },
     "service": {
-      "hostname": "dxas90.github.io",
+      "entropy": "Dlithx4fqubHIchtTV1eV9Cw",
+      "hostname": "dramirez-qb.github.io",
       "protocol": "https:"
     },
     "type": "web_service_binding",
-    "version": 1
+    "version": 2
   },
-  "ctime": 1568734428,
-  "expire_in": 157680000,
-  "prev": "de7c7b31bc21a4b82c3bc3795abe5dc4a55ad80068d75d58d95a88141ebd96b1",
-  "seqno": 9,
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.2"
+  },
+  "ctime": 1679571916,
+  "expire_in": 504576000,
+  "prev": "e10b353b90f4551048953e058a4b00c7351b0aad15559fbec14dd1540d1c26b3",
+  "seqno": 56,
   "tag": "signature"
 }
 
 which yields the signature:
 
------BEGIN PGP MESSAGE-----
-Version: Keybase OpenPGP v2.1.3
-Comment: https://keybase.io/crypto
-
-yMIkAnicrVJLSFRRGJ7RTLIS21UQ5S0RcpJ75r7OnV4qPRgsJGkxZTqdc8+5Mxdn
-5o4zdyw1U8qKCjLLSttUUEgZDShRixbaA5IIe7exDCrDFgW5KEvHzrVaBC07m8P5
-/+/7zvd//HfnpjuynE1rll1Jwryjzgf9nQlHZfPEUAOHTVLHeRq4ajp90RChcctf
-bRDOw/GABxqmIpTcuipKAMk8r2OJyIKKBTdQJKBgQYcC75Z1pCMeY6gBt4QEnkAk
-SRDIAuQR5+J0IxKgsWjMiFhMVlMoryBNpgKQAUWCTqEiSaKCiGJrCzyvCrICKSMG
-zbjNYOYwitNCw2Q19vBP2/sH/j/7TkzLUcJrUBWIpiI3FJBOFIIYBIuKiFUCVBsY
-p7EIClOGJrtRXOW5RhfHarWGRu1Y7Tn+6hcGDCuYwL8misZMy9TMEOsGLSsa99hs
-qy5qw3dR7P8t5MdGhLAkGaOWxuKGGeE8gCE1y7CVgSRDRRBFN3RxdHfUiFG/YSMk
-RYY8O/Y/tNZ2QBWNBQCw5gZIxNCtCVgTFFVCmEpEE1kEiDCKDO2AJUhYB0IgAoqJ
-KmPA2aPVREzOozKbKMAk40YggqxEjHKNt/t2zHA4sxwzM9LsDXNkzcr5s3d7ezOn
-qsaGNU9Vpm/7vIeLtgya4vuFJ48Ntb47ff1eaXJ4vCgvd+L7ylUfdeBcknA9WZ0+
-2vMp/0haW8bZVF7wor68MnT+wOxE+9vUff+F8cF2peBqdkY4vMKXev5mav5+bXPX
-s1lLe5UO3znz0PHB7Df7Xr4egoVFxW13UkU7i30HHc1jM7pKRkfk8vWRkXbafXOr
-2Hn4sTO7YcPLsnJvcu2pOfW3Bg4abWMdNZ/O1JQE3ub2b/ysh7wZvnVl/s4XC07f
-6Jrq+Vj6o7wlucnV/ao3/8fqsPGhFTVO1vuSe1AFXNWy+Os177acE0+/3a0YaPrS
-V3mpYKrQe8dX9ag3N3z5hHPyJ1t3QnU=
-=MFll
------END PGP MESSAGE-----
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgAsjIgmFBTy01BIBRsXLDovbkEWgLCZlO+dhM85udHlcKp3BheWxvYWTESpcCOMQg4Qs1O5D0VRBIlT4FiksAxzUbCq0VVZ++wU3RVA0cJrPEIMM8RzaVPfQUhcmIN5wKw0C5DdET7PbIE1pREdQX1nkZAgHCo3NpZ8RA6Y+u42BQx+WP4F3JCeS5aOEi0sUxeM8kYJB+6BZ2zSykgIx4DXlh7qiq4noNW1/BXg9W13ZZA/+B9KdU+/axDahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGH0kIbAK5wIXqE2tE1ytDXzt1gBaqqt/6PzQcIKiLIGo3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
@@ -66,4 +54,3 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/dxas90
 
 ==================================================================
-
